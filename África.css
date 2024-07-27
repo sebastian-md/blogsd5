@@ -108,6 +108,14 @@
   grid-gap: 0px;
 }
 
+.u-section-2 .u-list-item-1 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
 .u-section-2 .u-container-layout-2 {
   padding: 30px;
 }
@@ -117,6 +125,11 @@
   width: 210px;
   background-image: url("images/marruecos11.jpeg");
   background-position: 50% 50%;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
   margin: 0 auto;
 }
 
@@ -133,6 +146,14 @@
   padding: 0;
 }
 
+.u-section-2 .u-list-item-2 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
 .u-section-2 .u-container-layout-3 {
   padding: 30px;
 }
@@ -142,6 +163,11 @@
   width: 210px;
   background-image: url("images/3b5f8a18d97ab721a44cfe4082c81df5f8cc3a74ed6a1391c924c3bc8796140854111f0ba5bcf7d56ad97ed7490171fad7e2712398a8d59313978e_1280.jpg");
   background-position: 50% 50%;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
   margin: 0 auto;
 }
 
