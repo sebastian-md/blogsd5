@@ -47,7 +47,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 537px;
+    min-height: 702px;
   }
 
   .u-section-1 .u-text-2 {
@@ -57,7 +57,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 403px;
+    min-height: 527px;
   }
 
   .u-section-1 .u-text-2 {
@@ -67,7 +67,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 254px;
+    min-height: 606px;
   }
 
   .u-section-1 .u-text-1 {
@@ -117,6 +117,7 @@
   width: 210px;
   background-image: url("images/marruecos11.jpeg");
   background-position: 50% 50%;
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1);
   margin: 0 auto;
 }
 
@@ -142,6 +143,7 @@
   width: 210px;
   background-image: url("images/3b5f8a18d97ab721a44cfe4082c81df5f8cc3a74ed6a1391c924c3bc8796140854111f0ba5bcf7d56ad97ed7490171fad7e2712398a8d59313978e_1280.jpg");
   background-position: 50% 50%;
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1);
   margin: 0 auto;
 }
 

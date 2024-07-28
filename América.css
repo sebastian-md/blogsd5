@@ -46,10 +46,6 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 537px;
-  }
-
   .u-section-1 .u-text-2 {
     width: 720px;
   }
@@ -57,7 +53,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 403px;
+    min-height: 526px;
   }
 
   .u-section-1 .u-text-2 {
@@ -67,7 +63,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 254px;
+    min-height: 606px;
   }
 
   .u-section-1 .u-text-1 {
@@ -117,6 +113,7 @@
   width: 210px;
   background-image: url("images/cuba3.jpeg");
   background-position: 50% 50%;
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1);
   margin: 0 auto;
 }
 
@@ -142,6 +139,7 @@
   width: 210px;
   background-image: url("images/argentina9.jpeg");
   background-position: 50% 50%;
+  box-shadow: 2px 2px 8px 0px rgba(128,128,128,1);
   margin: 0 auto;
 }
 
