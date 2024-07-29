@@ -402,7 +402,7 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 954px;
+    min-height: 944px;
   }
 
   .u-section-3 .u-text-1 {
@@ -419,19 +419,19 @@
   }
 
   .u-section-3 .u-over-slide-1 {
-    padding: 26px;
+    padding: 30px;
   }
 
   .u-section-3 .u-over-slide-2 {
-    padding: 26px;
+    padding: 30px;
   }
 
   .u-section-3 .u-over-slide-3 {
-    padding: 26px;
+    padding: 30px;
   }
 
   .u-section-3 .u-over-slide-4 {
-    padding: 26px;
+    padding: 30px;
   }
 } .u-section-4 {
   background-image: none;
