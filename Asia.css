@@ -68,10 +68,15 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
+    width: auto;
+    margin-top: 231px;
   }
 
   .u-section-1 .u-text-2 {
-    width: 340px;
+    width: auto;
+    margin-top: 23px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 713px;
@@ -336,7 +341,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 418px;
-  background-image: url("images/silhouette-person-standing-top-hill-beautiful-colorful-sky-morning-4.jpg");
+  background-image: url("images/0916f4b2-city-4723-1628829b6c4.jpg");
   background-position: 50% 50%;
 }
 
@@ -346,7 +351,7 @@
 
 .u-section-3 .u-image-2 {
   min-height: 345px;
-  background-image: url("images/4.jpg");
+  background-image: url("images/jordania6.jpeg");
   background-position: 50% 50%;
 }
 
@@ -390,7 +395,7 @@
 
 .u-section-3 .u-image-3 {
   min-height: 345px;
-  background-image: url("images/56.jpg");
+  background-image: url("images/jordania8.jpeg");
   background-position: 50% 50%;
 }
 
@@ -400,7 +405,7 @@
 
 .u-section-3 .u-image-4 {
   min-height: 418px;
-  background-image: url("images/t5.jpg");
+  background-image: url("images/_DD_37.jpg");
   background-position: 50% 50%;
 }
 

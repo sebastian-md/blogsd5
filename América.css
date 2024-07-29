@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(41,46,51,0.45), rgba(41,46,51,0.45)), url('images/argentina11.jpeg');
+  background-image: linear-gradient(0deg, rgba(41,46,51,0.45), rgba(41,46,51,0.45)), url('images/cuba3.jpeg');
   background-position: 50% 50%;
 }
 
@@ -68,10 +68,15 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
+    width: auto;
+    margin-top: 231px;
   }
 
   .u-section-1 .u-text-2 {
-    width: 340px;
+    width: auto;
+    margin-top: 23px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 713px;
@@ -104,6 +109,14 @@
   grid-gap: 0px;
 }
 
+.u-section-2 .u-list-item-1 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
 .u-section-2 .u-container-layout-2 {
   padding: 30px;
 }
@@ -111,8 +124,13 @@
 .u-section-2 .u-image-1 {
   height: 210px;
   width: 210px;
-  background-image: url("images/cuba3.jpeg");
+  background-image: url("images/cuba4.jpeg");
   background-position: 50% 50%;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1);
   margin: 0 auto;
 }
@@ -130,6 +148,14 @@
   padding: 0;
 }
 
+.u-section-2 .u-list-item-2 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
 .u-section-2 .u-container-layout-3 {
   padding: 30px;
 }
@@ -137,8 +163,13 @@
 .u-section-2 .u-image-2 {
   height: 210px;
   width: 210px;
-  background-image: url("images/argentina9.jpeg");
+  background-image: url("images/argentina01.jpeg");
   background-position: 50% 50%;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
   box-shadow: 2px 2px 8px 0px rgba(128,128,128,1);
   margin: 0 auto;
 }
