@@ -1504,10 +1504,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-6 .u-sheet-1 {
-    min-height: 658px;
-  }
-
   .u-section-6 .u-text-1 {
     font-size: 3rem;
   }
